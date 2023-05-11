@@ -1,1 +1,1 @@
-# blog-command
+Bing Ai blog command
